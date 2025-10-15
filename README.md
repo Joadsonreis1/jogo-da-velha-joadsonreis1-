@@ -8,8 +8,12 @@
 
 **Jogadores**
 
-- ❌ jogador1 
-- ⭕ jogador2
+- ❌Jogador1 
+- ⭕Jogador2
 
 **Vencedor**
+
+**Perdedor**
+
+
 
