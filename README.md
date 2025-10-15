@@ -6,14 +6,18 @@
 | B | ❌  | ⭕  |   |
 | C | ⭕  |   |  ⭕ |
 
-**Jogadores**
+### **Jogadores:**
+
 
 - ❌Jogador1 
 - ⭕Jogador2
+  
+  **Vencedor**
 
-**Vencedor**
+  - **_Jogador1_**
 
-**Perdedor**
+  **Perdedor**
 
+  - _**~~Jogador2~~**_
 
 
