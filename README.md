@@ -10,3 +10,6 @@
 
 - ❌ jogador1 
 - ⭕ jogador2
+
+**Vencedor**
+
